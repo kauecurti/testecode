@@ -7,6 +7,7 @@
           <option value="#ff5f40">Mars</option>
           <option value="#cca770">Venus</option>
           <option value="#7697c2">Neptune</option>
+          <option value="#7697c2">Lua</option>
         </select>
       </div>
 
