@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "mynewspaceapp"
-  }
+    "default": "mynewapp-2291b",
+    "yes": "mynewapp-2291b"
+  },
+  "targets": {}
 }
