@@ -6,6 +6,14 @@
         <select id="planets" v-model="planetColor" aria-label="Planets">
           <option value="#ff5f40">Mars</option>
           <option value="#cca770">Venus</option>
+          <option value="#cca770">Venus</option>
+          <option value="#cca770">Venus</option>
+          <option value="#cca770">Venus</option>
+          <option value="#cca770">Venus</option>
+          <option value="#cca770">Venus</option>
+          <option value="#cca770">Venus</option>
+          <option value="#cca770">Venus</option>
+          <option value="#cca770">Venus</option>
         </select>
       </div>
 
