@@ -8,6 +8,7 @@
           <option value="#cca770">Venus</option>
           <option value="#7697c2">Neptune</option>
           <option value="#7697c2">Lua</option>
+          <option value="#7697c2">Terra</option>
         </select>
       </div>
 
