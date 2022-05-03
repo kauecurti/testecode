@@ -5,10 +5,6 @@
       <div class="options">
         <select id="planets" v-model="planetColor" aria-label="Planets">
           <option value="#ff5f40">Mars</option>
-          <option value="#cca770">Venus</option>
-          <option value="#7697c2">Neptune</option>
-          <option value="#7697c2">Lua</option>
-          <option value="#7697c2">Terra</option>
         </select>
       </div>
 
