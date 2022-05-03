@@ -4,7 +4,7 @@
     <div class="space">
       <div class="options">
         <select id="planets" v-model="planetColor" aria-label="Planets">
-          <option value="#ff5f40">Mars</option>
+          <option value="#ff5f40">teste prod</option>
         </select>
       </div>
 
