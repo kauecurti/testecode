@@ -4,5 +4,16 @@
     "yes": "mynewapp-2291b",
     "myapp": "mynewapp-2291b"
   },
-  "targets": {}
+  "targets": {
+    "mynewapp-2291b": {
+      "hosting": {
+        "dev": [
+          "myapp-devf1"
+        ],
+        "prod": [
+          "mynewapp-2291b"
+        ]
+      }
+    }
+  }
 }
