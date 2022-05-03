@@ -4,16 +4,8 @@
     <div class="space">
       <div class="options">
         <select id="planets" v-model="planetColor" aria-label="Planets">
-          <option value="#ff5f40">Mars</option>
-          <option value="#cca770">Venus</option>
-          <option value="#cca770">Venus</option>
-          <option value="#cca770">Venus</option>
-          <option value="#cca770">Venus</option>
-          <option value="#cca770">Venus</option>
-          <option value="#cca770">Venus</option>
-          <option value="#cca770">Venus</option>
-          <option value="#cca770">Venus</option>
-          <option value="#cca770">Venus</option>
+          <option value="#ff5f40">teste dev</option>
+         
         </select>
       </div>
 
