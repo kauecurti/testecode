@@ -13,5 +13,19 @@
         "destination": "/index.html"
       }
     ]
+  },
+    "public": "dist",
+    "target": "prod",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
   }
 }
