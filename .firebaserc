@@ -9,6 +9,9 @@
       "hosting": {
         "dev": [
           "myapp-devf1"
+        ],
+        "prod": [
+          "mynewapp-2291b"
         ]
       }
     }
