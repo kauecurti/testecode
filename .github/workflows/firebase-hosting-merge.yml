@@ -18,3 +18,6 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_MYNEWAPP_2291B }}'
           channelId: live
           projectId: mynewapp-2291b
+          TARGET_BRANCH: main
+          TARGET_NAME: develop
+          
