@@ -4,7 +4,9 @@
     <div class="space">
       <div class="options">
         <select id="planets" v-model="planetColor" aria-label="Planets">
-          <option value="#ff5f40">teste dev</option>
+          <option value="#ff5f40">teste dev2</option>
+          <option value="#ff5f40">teste dev2</option>
+          <option value="#ff5f40">teste dev2</option>
          
         </select>
       </div>
