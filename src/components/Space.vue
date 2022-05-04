@@ -5,6 +5,9 @@
       <div class="options">
         <select id="planets" v-model="planetColor" aria-label="Planets">
           <option value="#ff5f40">teste prod</option>
+          <option value="#ff5f40">teste prod</option>
+          <option value="#ff5f40">teste prod</option>
+          <option value="#ff5f40">teste prod</option>
         </select>
       </div>
 
